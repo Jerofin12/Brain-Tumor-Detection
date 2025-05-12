@@ -25,7 +25,7 @@ The dataset is structured as follows inside Google Drive:
 Each folder contains MRI images belonging to the corresponding tumor class.
 
 # Input Image
-GitHubLearnOpenCV+4GitHub+4GitHub+4
+https://github.com/Shravan103/Brain-Tumor-Detection?utm_source=chatgpt.com
 
 # 🧰 Dependencies
 Install the required Python libraries:

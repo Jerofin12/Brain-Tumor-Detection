@@ -78,3 +78,7 @@ Optimizer: Adam
 ├── README.md                   # Project README
 # 🔒 License
 This project is open-source under the MIT License.
+
+# ✅ Conclusion
+This project demonstrates the power of deep learning in the field of medical image analysis. By leveraging a Convolutional Neural Network (CNN), we can effectively classify brain MRI scans into four tumor categories with high accuracy. The use of Gradio enhances usability by providing a simple, interactive interface for real-time predictions. With further improvements, such as training on a larger dataset or optimizing the architecture, this system has the potential to assist medical professionals in early tumor detection and diagnosis.
+

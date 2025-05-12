@@ -24,6 +24,9 @@ The dataset is structured as follows inside Google Drive:
     └── pituitary/
 Each folder contains MRI images belonging to the corresponding tumor class.
 
+# Input Image
+GitHubLearnOpenCV+4GitHub+4GitHub+4
+
 # 🧰 Dependencies
 Install the required Python libraries:
 
